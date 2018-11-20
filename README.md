@@ -2,8 +2,11 @@
 První verze zamrzá po pohybu pálkou.
 
 import pygame
+
 import sys
+
 from pygame.locals import *
+
 from pygame.event import *
 
 #parametry aplikace
